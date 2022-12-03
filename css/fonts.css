@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Overpass";
+    src: url("../fonts/static/Overpass-Bold.ttf");
+}
+@font-face {
+    font-family: "Overpass-light";
+    src: url("../fonts/static/Overpass-Medium.ttf");
+}
